@@ -27,6 +27,11 @@ a{
                 align-items: center;
                 justify-content: space-between;
                 width: 600px;
+                .navbar_item:hover{
+                    a{
+                        color: #35B8BE;
+                    }
+                }
             }
         }
     }

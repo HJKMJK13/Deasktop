@@ -28,4 +28,7 @@ a {
   align-items: center;
   justify-content: space-between;
   width: 600px;
+}
+.navbar .container .navbar_box .navbar_list .navbar_item:hover a {
+  color: #35B8BE;
 }/*# sourceMappingURL=style.css.map */
