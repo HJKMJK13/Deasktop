@@ -58,4 +58,18 @@ a {
   background-color: #35B8BE;
   border: none;
   border-radius: 10px;
+}
+.take .container .take_box .take_text .take_list {
+  display: flex;
+  align-items: center;
+  width: 100px;
+  margin-left: -50px;
+}
+.take .container .take_box .take_text h4 {
+  color: black;
+  margin-top: -30px;
+  margin-left: -10px;
+}
+.take .container .take_box .take_text h4 b {
+  color: #35B8BE;
 }/*# sourceMappingURL=style.css.map */

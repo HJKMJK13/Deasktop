@@ -63,6 +63,20 @@ a{
                     border: none;
                     border-radius: 10px;
                 }
+                .take_list{
+                    display: flex;
+                    align-items: center;
+                    width: 100px;
+                    margin-left: -50px;
+                }
+                h4{
+                    b{
+                        color: #35B8BE;
+                    }
+                    color: black;
+                    margin-top: -30px;
+                    margin-left: -10px;
+                }
             }
         }
     }
