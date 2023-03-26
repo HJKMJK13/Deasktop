@@ -31,4 +31,31 @@ a {
 }
 .navbar .container .navbar_box .navbar_list .navbar_item:hover a {
   color: #35B8BE;
+}
+
+.take {
+  background-image: url(./BG\ Shape.png);
+  background-size: 100%;
+}
+.take .container .take_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.take .container .take_box .take_text h2 {
+  font-size: 60px;
+}
+.take .container .take_box .take_text h2 b {
+  color: #35B8BE;
+}
+.take .container .take_box .take_text p {
+  width: 400px;
+  color: #546285;
+}
+.take .container .take_box .take_text button {
+  padding: 15px 30px;
+  color: white;
+  background-color: #35B8BE;
+  border: none;
+  border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
